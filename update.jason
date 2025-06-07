@@ -2,20 +2,19 @@
   "enabled": true,
   "show_after": "2025-06-07",
   "force_update": false,
-  "title": "Update Available",
-  "message": "A new version is ready. Please update for best experience.
-join my chanel for more @androidmod_ar",
+  "title": "Waktunya Ngopi",
+  "message": "Utk Pak Alam & Pak Sekcam saye tggu di kafe OPI (samping gedung PDI)",
   "link_text": "See details",
-  "link_url": "https://t.me/androidmod_ar",
+  "link_url": "https://t.me/+6BPuxAEhOqpiYmY1",
   "buttons": [
     {
-      "text": "Update Now",
+      "text": "----",
       "action": "url",
-      "target": "https://t.me/androidmod_ar",
+      "target": "https://t.me/+6BPuxAEhOqpiYmY1",
       "style": "primary"
     },
     {
-      "text": "Later",
+      "text": "Tutup",
       "action": "dismiss",
       "style": "secondary"
     }
